@@ -4,7 +4,7 @@
  * main - Prints "with proper grammar, but the ouptu is a piece of art,"
  *
  * Return: Always 0 (Success)
- * /
+ */
 
 
 
